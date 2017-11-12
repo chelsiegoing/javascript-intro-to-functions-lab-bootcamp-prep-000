@@ -5,7 +5,7 @@ function shout(string) {
   return string.toLowerCase()
 }
 function logShout(hello) {
-  console.log(HELLO)
+  console.log('HELLO')
 }
 function sayHiToGrandma(string){
   if (string === string.toLowerCase()) {
